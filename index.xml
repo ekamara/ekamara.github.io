@@ -6,6 +6,8 @@
     <description>Recent content on Eric Kamara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>me@ekamara.com (Eric Kamara)</managingEditor>
+    <webMaster>me@ekamara.com (Eric Kamara)</webMaster>
     <lastBuildDate>Sat, 12 Sep 2015 16:55:11 +0300</lastBuildDate>
     <atom:link href="http://blog.ekamara.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +15,7 @@
       <title>about</title>
       <link>http://blog.ekamara.com/about/</link>
       <pubDate>Sat, 12 Sep 2015 16:55:11 +0300</pubDate>
-      
+      <author>me@ekamara.com (Eric Kamara)</author>
       <guid>http://blog.ekamara.com/about/</guid>
       <description>&lt;p&gt;This is a new site.&lt;/p&gt;
 </description>
